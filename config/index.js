@@ -7,7 +7,7 @@ export const config = {
     // 模板消息id
     templateId: "jWP4ZbUjnkqU1K27VSmMtRk5QCMmz8NYGlw6XgwQaL8",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: ["jWP4ZbUjnkqU1K27VSmMtRk5QCMmz8NYGlw6XgwQaL8"],
+    user: ["oyX315vTMZXvjAIpez_1QwKN2NVw"],
      
     // 信息配置
     // 所在省份
@@ -16,7 +16,7 @@ export const config = {
     city: "西安",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "姐姐", "year": "1997", "date": "9-3", "type": 'r'}
+      {"name": "姐姐", "year": "1997", "date": "10-4", "type": 'r'}
     ],
     // 在一起的日子，格式同上
     loveDate: "2015-05-01",
